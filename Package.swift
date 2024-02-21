@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "LoadableData",
     platforms: [
-        .iOS(.v13),
+        .iOS(.v15),
         .macOS(.v11),
         .tvOS(.v13),
         .watchOS(.v6),
